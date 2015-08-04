@@ -73,8 +73,10 @@ theme: icarus
 # disqus_shortname: 'iLifePath 人生道路实验室'
 
 # DuoShuo
-duoshuo_shortname: 'iLifePath 人生道路实验室'
+# duoshuo_shortname: 'iLifePath'
 
+# Sohu ChangYan
+changyan_shortname: 'iLifePath'
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
