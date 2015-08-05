@@ -78,6 +78,9 @@ theme: icarus
 # Sohu ChangYan
 changyan_shortname: 'iLifePath'
 
+# Baidu Share
+baidushare: true
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
