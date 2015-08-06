@@ -3,22 +3,22 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'iLifePath 人生道路实验室'
-subtitle: ''
-description: '互联网、大数据、云计算、人工智能'
-author: '官方博客'
-author_title: 'iDSS working group'
-avatar: http://7xjra2.com1.z0.glb.clouddn.com/avatar.png
-location: 'Shanghai, China'
-follow: http://weibo.com/dispersedrainbow
-language: zh-CN
+title: Icarus
+subtitle:
+description: Hexo theme - Icarus
+author: PPOffice
+author_title: 'Web Developer & Designer'
+avatar: css/images/avatar.png
+location: 'Harbin, China'
+follow: https://github.com/ppoffice/
+language: en
 timezone:
-since: 2015 # The start year showing in your copyright section.
+since: 2000 # The start year showing in your copyright section.
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.ilifepath.com
-root: /
+url: http://ppoffice.github.io/hexo-theme-icarus
+root: /hexo-theme-icarus/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -67,24 +67,18 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-theme: icarus-idss
+theme: icarus
 
 # Disqus
-# disqus_shortname: 'iLifePath 人生道路实验室'
+# disqus_shortname: hexo-theme-icarus
 
 # DuoShuo
-# duoshuo_shortname: 'iLifePath'
+# duoshuo_shortname: hexo-theme-icarus
 
-# Sohu ChangYan
-changyan_shortname: 'iLifePath'
-
-# Baidu Share
-baidushare: true
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:iLifePath/ilifepath.github.io.git
-  branch: master
-
+  repository: https://github.com/ppoffice/hexo-theme-icarus.git
+  branch: gh-pages

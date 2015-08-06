@@ -1,0 +1,52 @@
+# Logo
+logo: http://7xjra2.com1.z0.glb.clouddn.com/logo.png # Empty this to unset logo
+
+# Header
+menu:
+  主页: .
+  文章列表: archives
+  分类: categories
+  标签: tags
+  关于: about
+
+# Content
+excerpt_link: 阅读全文
+fancybox: true
+
+# Profile
+profile: true # whether to show profile bar
+gravatar: false # whether to use gravatar with the email
+showlogo: true # whether to show the logo in the header
+
+# Sidebar
+sidebar: right # set to false if you don't want a sidebar
+widgets:
+- recent_posts
+- tagcloud
+- category
+- tag
+- archive
+thumbnail: true
+
+# Contacts
+contacts:
+  weibo: http://weibo.com/dispersedrainbow
+  facebook: '#'
+  twitter: '#'
+  linkedin: '#'
+  google: '#'
+  github: https://github.com/iLifePath
+ 
+# Links
+links:
+  Hexo: http://hexo.io
+
+# Miscellaneous
+google_analytics:
+favicon: 'favicon-2x.ico'
+twitter:
+google_plus:
+weibo:
+weixin:
+fb_admins:
+fb_app_id:
